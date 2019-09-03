@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\core-microservice-backend",
+    "\\core-microservice-backend\\DataAccessLayer",
+    "\\core-microservice-backend\\Model"
+  ],
+  "SelectedNode": "\\core-microservice-backend\\DataAccessLayer\\IBoardInterface.cs",
+  "PreviewInSolutionExplorer": false
+}
